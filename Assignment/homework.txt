@@ -1,0 +1,26 @@
+
+<html>
+ <head> 
+    <title> Html Tags sessions </title>
+<style> 
+
+</style>
+ </head>
+<body>
+
+<p>
+<b>a<sup>5</sup>+4ab+b<sup>5</sup>+</b><i>A<sub>2</sub>B<sub>11</sub>C<sub>13</sup><i/>+<u><b><i>a<sub>3</sub>+3a<sup>2</sup>b+3ab<sub>2</sub></i></b></u>
+
+</p>
+
+<img src ="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRjbttouUvGQx1qTxcQ5pHS8H4grmEIkEThe9TWIi-qCdq3-_Fl" style = "display : block; margin: 0 auto; width:100px;">
+<br>
+
+<br>
+<a href = "https://www.nepathyacollege.edu.np/">NEPATHYA</a>
+
+
+
+hello world
+</body>
+</html>
